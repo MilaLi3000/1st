@@ -1,2 +1,2 @@
-# Mila.Li3000
+# MilaLi3000
 Getting Started 
